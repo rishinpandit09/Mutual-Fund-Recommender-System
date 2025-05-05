@@ -59,3 +59,4 @@ dashboard.html
 
 # Optional: your own local config overrides
 config.local.yaml
+.env
